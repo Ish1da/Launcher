@@ -1,0 +1,12 @@
+D:\MYWORK\timer\Launcher\Launcher\bin\Debug\Launcher.exe.config
+D:\MYWORK\timer\Launcher\Launcher\bin\Debug\Launcher.exe
+D:\MYWORK\timer\Launcher\Launcher\bin\Debug\Launcher.pdb
+D:\MYWORK\timer\Launcher\Launcher\obj\Debug\Launcher.csprojAssemblyReference.cache
+D:\MYWORK\timer\Launcher\Launcher\obj\Debug\Launcher.Properties.Resources.resources
+D:\MYWORK\timer\Launcher\Launcher\obj\Debug\Launcher.csproj.GenerateResource.cache
+D:\MYWORK\timer\Launcher\Launcher\obj\Debug\Launcher.csproj.CoreCompileInputs.cache
+D:\MYWORK\timer\Launcher\Launcher\obj\Debug\Launcher.exe
+D:\MYWORK\timer\Launcher\Launcher\obj\Debug\Launcher.pdb
+D:\MYWORK\timer\Launcher\Launcher\obj\Debug\Launcher.Form1.resources
+D:\MYWORK\timer\Launcher\Launcher\obj\Debug\Interop.IWshRuntimeLibrary.dll
+D:\MYWORK\timer\Launcher\Launcher\obj\Debug\Launcher.csproj.ResolveComReference.cache
